@@ -4,6 +4,9 @@ User Email and Password to log in and edit existing post is:
   
   password: admin
 
+
+# Post Example in the Flask Blog
+
 ![Stack Editor](https://stackedit.io/res-min/img/logo.svg)
 
 ### How to Use:
